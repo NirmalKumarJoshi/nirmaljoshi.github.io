@@ -13,4 +13,4 @@ What else do you need?
 
 ### What's within the blogs
 
-To be honest, I'm having some trouble remembering right now, so why don't you just jump to [blogs]('https://nirmaljoshi.me/') and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, so why don't you just jump to blogs and it will answer **all** your questions.

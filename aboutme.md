@@ -7,7 +7,7 @@ subtitle: If you love Tech and IT Security you’ll feel right at home here!
 Hi, I am Nirmal Joshi currently working in the field of Information Security. Here's why I started this blog site:
 
 - Documenting things I learn and experience
-- Make an concept easy to understand, like totally in layman terms
+- Make a concept easy to understand, like totally in layman terms
 
 What else do you need?
 

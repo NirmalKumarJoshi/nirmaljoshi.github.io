@@ -3,8 +3,8 @@ layout: post
 title: CyberSecurity and Information Security
 subtitle: A difference to know
 cover-img: /assets/img/cyber-info-cover.jpg
-thumbnail-img: /assets/cyber-info-diff.png
-share-img: /assets/img/cyber-info-diff.png
+thumbnail-img: /assets/thumb-cyber-info.gif
+share-img: /assets/img/cyber-info-cover.jpg
 tags: [informationsecurity, cybersecurity]
 ---
 

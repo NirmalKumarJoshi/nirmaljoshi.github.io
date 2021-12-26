@@ -3,7 +3,7 @@ layout: post
 title: What is IT Risk
 subtitle: Most basic term to know in Security
 # cover-img: /assets/img/
-thumbnail-img: /assets/img/risk-cominc.jpg
+thumbnail-img: /assets/img/risk-comic.jpg
 share-img: /assets/img/risk-comic.jpg
 tags: [informationsecurity, cybersecurity, IT Risk]
 ---

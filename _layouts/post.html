@@ -41,12 +41,14 @@ layout: base
 
       <article role="main" class="blog-post">
         {{ content }}
-        {% if page.comments == true and site.disqus.shortname %}
-        {% include disqus.html %}
-        {% endif %}
+        
         {% include adsense.html %}
         
       </article>
+      
+      {% if page.comments == true and site.disqus.shortname %}
+        {% include disqus.html %}
+      {% endif %}
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">

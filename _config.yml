@@ -160,7 +160,7 @@ gtag: "FMBGGT052W"
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
 disqus:
-    shortname:  "https-nirmaljoshi-me"
+    shortname: "https-nirmaljoshi-me"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
